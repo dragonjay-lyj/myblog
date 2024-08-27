@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DragonJay&#39;s blog</title>
+  <icon>https://blog.dragonjay.top/icon.png</icon>
+  <subtitle>DragonJay</subtitle>
+  <link href="https://blog.dragonjay.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.dragonjay.top/"/>
+  <updated>2024-08-26T16:47:57.789Z</updated>
+  <id>https://blog.dragonjay.top/</id>
+  
+  <author>
+    <name>DragonJay</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>接线疑云：FDI探案 The Operator 测评</title>
+    <link href="https://blog.dragonjay.top/a718d92a0f3a/"/>
+    <id>https://blog.dragonjay.top/a718d92a0f3a/</id>
+    <published>2024-09-25T16:00:00.000Z</published>
+    <updated>2024-08-26T16:47:57.789Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;强烈推荐·····一箱啤酒+这个游戏可以给你一个完美的夜晚，相当于让你置身于一个X档案一样的故事。值得票价&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="post" scheme="https://blog.dragonjay.top/tags/post/"/>
+    
+    <category term="悬疑推理" scheme="https://blog.dragonjay.top/tags/%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86/"/>
+    
+    <category term="文字游戏" scheme="https://blog.dragonjay.top/tags/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="游戏评价" scheme="https://blog.dragonjay.top/tags/%E6%B8%B8%E6%88%8F%E8%AF%84%E4%BB%B7/"/>
+    
+    <category term="解密游戏" scheme="https://blog.dragonjay.top/tags/%E8%A7%A3%E5%AF%86%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="Steam游戏" scheme="https://blog.dragonjay.top/tags/Steam%E6%B8%B8%E6%88%8F/"/>
+    
+    <category term="TheOperator" scheme="https://blog.dragonjay.top/tags/TheOperator/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.dragonjay.top/e72792221588/"/>
+    <id>https://blog.dragonjay.top/e72792221588/</id>
+    <published>2024-08-26T14:28:47.705Z</published>
+    <updated>2024-08-26T14:28:47.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
